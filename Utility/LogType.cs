@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Utility
 {
-    public class Class1
-    {
-    }
+	[Flags]
+	public enum LogType
+	{
+		Debug,
+		Info,
+		Warning,
+		Error
+	}
 }
