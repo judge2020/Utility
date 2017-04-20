@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Utility.Judge2020</id>
+    <version>1.0.0</version>
+    <title>Utility</title>
+    <authors>Azeier, Judge2020</authors>
+    <owners>Judge2020</owners>
+    <licenseUrl>https://github.com/judge2020/Utility/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/judge2020/Utility/blob/master/LICENSE</projectUrl>
+    <iconUrl>https://github.com/judge2020/HS.Logging/raw/master/rsz_58c43f9d68289.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Helper for Logging and TryOpenUrl.</description>
+    <releaseNotes>Initial Version</releaseNotes>
+    <copyright>Copyright Hunter 2017</copyright>
+    <tags>C#, Logging, log</tags>
+  </metadata>
+  <files>
+  <file src="readme.txt" target="" />
+  </files>
+</package>
